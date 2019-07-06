@@ -1,0 +1,12 @@
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.xml
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.vbprojAssemblyReference.cache
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.JogoDaMemoria.resources
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Resources.resources
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.vbproj.GenerateResource.cache
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.vbproj.CoreCompileInputs.cache
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.xml
+C:\Users\leonardo.ahenschel\source\repos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
